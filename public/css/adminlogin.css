@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url('../photos/OSA\ Login\ bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.custom-image {
+    margin-top: 20px;
+    width: 100px;
+}
+
+.login-container {
+    background-color: #fff;
+    background-size: cover;
+    background-position: center;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.custom-image2 {
+    width: 55px;
+    height: auto;
+}
+
+.logo-and-heading {
+    margin-left: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.logo-and-heading h1 {
+    margin-left: 30px; /* Add space between the logo and the heading */
+    font-size: 45px;
+    align-items: center;
+    margin: 10px 0; /* Add margin to the top and bottom of the h1 element */
+}
+
+.login-container h2 {
+    margin-bottom: 30px;
+}
+
+.form-group {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 4px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}

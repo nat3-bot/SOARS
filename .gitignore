@@ -1,0 +1,5 @@
+
+/vendor
+/storage/logs/laravel.log
+/storage/framework/sessions
+/storage/framework/views

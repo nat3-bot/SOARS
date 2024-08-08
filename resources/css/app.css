@@ -1,0 +1,16 @@
+
+/* Import Bootstrap CSS */
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css');
+
+/* Import FullCalendar CSS */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/5.10.1/main.min.css');
+
+/* Your custom CSS can go here */
+/* For example: */
+/*
+body {
+    font-family: 'Arial', sans-serif;
+}
+*/
+
+/* If you have additional custom styles, add them below */
