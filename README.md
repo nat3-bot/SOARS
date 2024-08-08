@@ -1,4 +1,4 @@
-<h1>CAPSTONE PROJECT: <strong><em>Student Organization Activation and Recruitment System for College Student of Adamson University </em></strong></h1><br><br>
+<h3>CAPSTONE PROJECT: <strong><em>Student Organization Activation and Recruitment System for College Student of Adamson University </em></strong></h3><br>
 <ul>
     <li><h2>SOARS is a Recruitment System that allow Office for Student Affairs Employees to oversee the Following:</h2></li>
     <ul>
